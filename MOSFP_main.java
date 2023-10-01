@@ -1,4 +1,4 @@
-//  MOSFP.java
+This is an updated version of the original code V2.0 //  MOSFP.java
 // Add this code to jMetal Tool: http://jmetal.sourceforge.net/
 /*
 Shehadeh HA, Idna Idris MY, Ahmedy I, Ramli R, Mohamed Noor N. The Multi-Objective Optimization Algorithm Based on Sperm Fertilization Procedure (MOSFP) Method for Solving Wireless Sensor Networks Optimization Problems in Smart Grid Applications. Energies. 2018; 11(1):97. https://doi.org/10.3390/en11010097 
